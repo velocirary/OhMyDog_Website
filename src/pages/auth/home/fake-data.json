@@ -1,0 +1,32 @@
+[
+  {
+    "status": "Aberto",
+    "title": "Lorem Ipsum",
+    "value": "123.45",
+    "createdAt": "2024-05-13T09:00:00.000Z"
+  },
+  {
+    "status": "Fechado",
+    "title": "Dolor Sit Amet",
+    "value": "678.90",
+    "createdAt": "2024-05-12T15:30:00.000Z"
+  },
+  {
+    "status": "Aberto",
+    "title": "Consectetur Adipiscing Elit",
+    "value": "543.21",
+    "createdAt": "2024-05-11T11:45:00.000Z"
+  },
+  {
+    "status": "Fechado",
+    "title": "Sed Do Eiusmod Tempor",
+    "value": "987.65",
+    "createdAt": "2024-05-10T14:20:00.000Z"
+  },
+  {
+    "status": "Aberto",
+    "title": "Incididunt Ut Labore",
+    "value": "234.56",
+    "createdAt": "2024-05-09T08:55:00.000Z"
+  }
+]

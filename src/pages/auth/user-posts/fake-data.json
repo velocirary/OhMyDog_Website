@@ -1,0 +1,52 @@
+[
+  {
+    "status": "Aberta",
+    "title": "Ajuda pra farofa",
+    "sponsorName": "Mordekai Ramos",
+    "donatedValue": "R$ 40,00",
+    "donationStatus": "Aceita",
+    "userID": "user12345",
+    "postID": "post67890",
+    "sponsorID": "sponsor1122"
+  },
+  {
+    "status": "Aberta",
+    "title": "Ajuda pra farofa",
+    "sponsorName": "Thomas Ribeiro",
+    "donatedValue": "R$ 90,00",
+    "donationStatus": "Em análise",
+    "userID": "user54321",
+    "postID": "post98765",
+    "sponsorID": "sponsor3344"
+  },
+  {
+    "status": "Aberta",
+    "title": "Ajuda pra farofa",
+    "sponsorName": "Pedro Json",
+    "donatedValue": "R$ 75,00",
+    "donationStatus": "Em análise",
+    "userID": "user67890",
+    "postID": "post12345",
+    "sponsorID": "sponsor5566"
+  },
+  {
+    "status": "Aberta",
+    "title": "Ajuda pra farofa",
+    "sponsorName": "Ana Flávia",
+    "donatedValue": "R$ 20,00",
+    "donationStatus": "Em análise",
+    "userID": "user11223",
+    "postID": "post33445",
+    "sponsorID": "sponsor7788"
+  },
+  {
+    "status": "Aberta",
+    "title": "Ajuda pra farofa",
+    "sponsorName": "Gabriele Ramos",
+    "donatedValue": "R$ 15,00",
+    "donationStatus": "Em análise",
+    "userID": "user44556",
+    "postID": "post66778",
+    "sponsorID": "sponsor9900"
+  }
+]

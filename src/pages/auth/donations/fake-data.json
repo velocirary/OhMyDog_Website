@@ -1,0 +1,16 @@
+[
+  {
+    "status": "Aceito",
+    "message": "Ajuda para o caramelo",
+    "donationValue": "R$ 50,00",
+    "donatedAt": "10/06/2024",
+    "voucher": "MENOS20"
+  },
+  {
+    "status": "Em análise",
+    "message": "Ajuda para o floquinho",
+    "donationValue": "R$ 25,00",
+    "donatedAt": "10/06/2024",
+    "voucher": "Nenhum voucher recebido"
+  }
+]

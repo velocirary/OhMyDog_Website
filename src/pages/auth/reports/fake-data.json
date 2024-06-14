@@ -1,0 +1,22 @@
+[
+  {
+    "reportedTitle": "Já vi está publicação em 3 postagens diferentes",
+    "reportedDescription": "Spam",
+    "reportedAt": "06/06/2024",
+    "postID": "1"
+  },
+
+  {
+    "reportedTitle": "Conteúdo desse post foi roubado da minha postagem original!!!",
+    "reportedDescription": "Conteúdo falso",
+    "reportedAt": "06/06/2024",
+    "postID": "2"
+  },
+
+  {
+    "reportedTitle": "Já apareceu 5 vezes diferentes na minha timeline",
+    "reportedDescription": "Spam",
+    "reportedAt": "06/06/2024",
+    "postID": "3"
+  }
+]
