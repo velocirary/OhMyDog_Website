@@ -9,7 +9,7 @@ import {
 
 export function Faq() {
   return (
-    <main className="flex-1 font-karla">
+    <main className="flex-1 font-karla bg-slate-500">
       <Helmet title="Dúvidas frequentes" />
 
       <div className="container max-w-screen-2xl px-6">
